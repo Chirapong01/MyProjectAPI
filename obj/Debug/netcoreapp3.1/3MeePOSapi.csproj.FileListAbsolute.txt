@@ -1,0 +1,277 @@
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.csprojAssemblyReference.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.AssemblyInfoInputs.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.AssemblyInfo.cs
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.csproj.CoreCompileInputs.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.dll
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.pdb
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/3MeePOSapi.deps.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/3MeePOSapi.runtimeconfig.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/3MeePOSapi.runtimeconfig.dev.json
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/3MeePOSapi.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/3MeePOSapi.pdb
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/linux/native/libmongocrypt.so
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/osx/native/libmongocrypt.dylib
+/Users/March/Documents/GitHub/3MeePOSapi/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.RazorTargetAssemblyInfo.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.csproj.CopyComplete
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/staticwebassets/3MeePOSapi.StaticWebAssets.Manifest.cache
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/staticwebassets/3MeePOSapi.StaticWebAssets.xml
+/Users/March/Documents/GitHub/3MeePOSapi/obj/Debug/netcoreapp3.1/3MeePOSapi.genruntimeconfig.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csprojAssemblyReference.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.xml
+D:\work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csprojAssemblyReference.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.xml
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+D:\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csprojAssemblyReference.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.xml
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\ekara\OneDrive\Documents\API\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csprojAssemblyReference.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.xml
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Chirapong\Desktop\api work\3MeePOSapi\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Arm\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csprojAssemblyReference.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.xml
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Arm\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.StaticWebAssets.xml
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.exe
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.deps.json
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.json
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.runtimeconfig.dev.json
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Chirapong\Desktop\POS\api\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.AssemblyReference.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfoInputs.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.AssemblyInfo.cs
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CoreCompileInputs.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Manifest.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\3MeePOSapi.StaticWebAssets.Pack.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.3MeePOSapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.3MeePOSapi.props
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.3MeePOSapi.props
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.3MeePOSapi.props
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.RazorTargetAssemblyInfo.cache
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.csproj.CopyComplete
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.dll
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.pdb
+C:\Users\Chirapong\Desktop\POS\api\obj\Debug\netcoreapp3.1\3MeePOSapi.genruntimeconfig.cache
