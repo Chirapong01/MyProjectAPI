@@ -29,7 +29,7 @@ namespace _3MeePOSapi.Services
             _user.InsertOne(user);
             return user;
         }
-
+        
 
         public void UpdateUser(string id, User userIn) => _user.ReplaceOne(user => user.UserId == id, userIn);
 
